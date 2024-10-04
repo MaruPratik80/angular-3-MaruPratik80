@@ -1,5 +1,26 @@
 # AngularTest3
 
+Test 3
+
+Create custom directives
+
+- 1. Highlight text when hover over the text
+- 2. Trim white-space in input field on blur event
+- 3. Custom tool tip directive
+
+  - Text original value - This is custom tool-tip directive.
+  - Displayed value - This is custom tool...
+
+    - Create Three fields for tool-tip customisation
+
+      1. Position Drop-down (left, right, top, bottom)
+      2. Font Color picker input field
+      3. Font size Drop-down(12, 14, 16, 20, 24, 28, 36, ....)
+
+      - Custom Tool-tip Directive:
+        - Build a custom directive named appTooltip that displays a tooltip when the user hovers over an element.
+        - Customize the content and styling of the tooltip. Based on selected position, font-color, font-size
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
 ## Development server
